@@ -1,4 +1,5 @@
-package example.org;
+package org;
+import org.ColourTable;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
